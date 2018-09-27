@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'huohua docs'
+project = 'huohuaschool'
 copyright = '2018, huohuaschool'
 author = 'huohuaschool'
 
